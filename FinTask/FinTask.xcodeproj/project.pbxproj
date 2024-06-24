@@ -35,6 +35,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		22BD30082C2871C400945318 /* Module */ = {
+			isa = PBXGroup;
+			children = (
+				22BD300C2C28729200945318 /* Onboarding */,
+				22BD300B2C2871EF00945318 /* Model */,
+				22BD300A2C2871DB00945318 /* ViewController */,
+				22BD30092C2871D000945318 /* View */,
+			);
+			path = Module;
+			sourceTree = "<group>";
+		};
+		22BD30092C2871D000945318 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		22BD300A2C2871DB00945318 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				541AC7AA2C2835A400AFA81C /* ViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		22BD300B2C2871EF00945318 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		22BD300C2C28729200945318 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
 		541AC79A2C2835A400AFA81C = {
 			isa = PBXGroup;
 			children = (
@@ -54,9 +94,9 @@
 		541AC7A52C2835A400AFA81C /* FinTask */ = {
 			isa = PBXGroup;
 			children = (
+				22BD30082C2871C400945318 /* Module */,
 				541AC7A62C2835A400AFA81C /* AppDelegate.swift */,
 				541AC7A82C2835A400AFA81C /* SceneDelegate.swift */,
-				541AC7AA2C2835A400AFA81C /* ViewController.swift */,
 				541AC7AF2C2835A500AFA81C /* Assets.xcassets */,
 				541AC7B12C2835A500AFA81C /* LaunchScreen.storyboard */,
 				541AC7B42C2835A500AFA81C /* Info.plist */,

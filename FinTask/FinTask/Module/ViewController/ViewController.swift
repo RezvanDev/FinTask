@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  FinTask
 //
-//  Created by Иван Незговоров on 23.06.2024.
+//  Created by Иван Незговоров, Timofey Zykov, Ivan Nezgovorov on 23.06.2024.
 //
 
 import UIKit
